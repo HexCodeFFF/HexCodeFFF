@@ -10,4 +10,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hexcodefff&count_private=true&theme=jolly&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hexcodefff&theme=jolly&layout=compact)
 
-<a href="https://www.buymeacoffee.com/reticivis" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/reticivis" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height=60px ></a>
