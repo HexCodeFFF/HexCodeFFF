@@ -1,7 +1,6 @@
 # welcome to my github!
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=hexcodefff.hexcodefff&color=magenta&text=visitors)
-[![pronouns: she/her](https://img.shields.io/badge/pronouns-she%2Fher-ff69b4)](https://en.pronouns.page/@melody.florum)
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=hexcodefff.hexcodefff&color=magenta&text=visitors)<!---[![pronouns: she/her](https://img.shields.io/badge/pronouns-she%2Fher-ff69b4)](https://en.pronouns.page/@melody.florum)-->
 [![website: reticivis.net](https://img.shields.io/badge/website-reticivis.net-e83e8c)](https://reticivis.net)
 [![twitter: @smokeouid](https://img.shields.io/twitter/follow/smokeouid?style=social)](https://twitter.com/smokeouid)
 [![My Discord](https://discordapp.com/api/guilds/829973626442088468/widget.png)](https://discord.gg/8SJectcksK)
